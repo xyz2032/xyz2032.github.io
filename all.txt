@@ -703,3 +703,4 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 珠江卫视,http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
 珠江卫视,http://nclive.grtn.cn/zjpd/playlist.m3u8
+
