@@ -462,7 +462,6 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 河南卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/henanstv/1.m3u8
 河南都市,http://123.163.119.21:9601/live/live2/500K/tzwj_video.m3u8
 河南法治,http://123.163.119.21:9601/live/live4/500K/tzwj_video.m3u8
-河南国际,http://123.163.119.21:9601/live/live10/500K/tzwj_video.m3u8
 河南睛彩中原,http://117.158.206.60:9080/live/live30_tzwj_500k.m3u8
 武术世界,http://117.158.206.60:9080/live/wssj.m3u8
 武术世界,http://123.163.119.21:9601/live/live13/500K/tzwj_video.m3u8
