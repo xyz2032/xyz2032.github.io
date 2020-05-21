@@ -92,130 +92,217 @@ CCTV17,http://120.221.5.111:8089/PLTV/88888888/224/3221226093/index.m3u8
 西藏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
 测试1,#genre#
-CCTV-1 高清,http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
-CCTV-2 高清,http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
-CCTV-3 高清,http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
-CCTV-4 高清,http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
-CCTV-5 高清,http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
-CCTV-5+ 高清,http://iptv.pdsu.edu.cn/hls/cctv5phd.m3u8
-CCTV-6 高清,http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-CCTV-7 高清,http://iptv.pdsu.edu.cn/hls/cctv7hd.m3u8
-CCTV-8 高清,http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
-CCTV-9 高清,http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
-CCTV-10 高清,http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
-CCTV-12 高清,http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
-CCTV-14 高清,http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
-CGTN 高清,http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
-CHC 高清电影,http://iptv.pdsu.edu.cn/hls/chchd.m3u8
-北京卫视 高清,http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
-北京文艺 高清,http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
-北京影视 高清,http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
-北京新闻 高清,http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8
-北京纪实 高清,http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
-东方卫视 高清,http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
-安徽卫视 高清,http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
-浙江卫视 高清,http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
-湖南卫视 高清,http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
-江苏卫视 高清,http://iptv.pdsu.edu.cn/hls/jshd.m3u8
-湖南卫视 高清,http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
-浙江卫视 高清,http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
-江苏卫视 高清,http://iptv.pdsu.edu.cn/hls/jshd.m3u8
-东方卫视 高清,http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
-安徽卫视 高清,http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
-黑龙江卫视 高清,http://iptv.pdsu.edu.cn/hls/hljhd.m3u8
-辽宁卫视 高清,http://iptv.pdsu.edu.cn/hls/lnhd.m3u8
-深圳卫视 高清,http://iptv.pdsu.edu.cn/hls/szhd.m3u8
-广东卫视 高清,http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
-天津卫视 高清,http://iptv.pdsu.edu.cn/hls/tjhd.m3u8
-湖北卫视 高清,http://iptv.pdsu.edu.cn/hls/hbhd.m3u8
-山东卫视 高清,http://iptv.pdsu.edu.cn/hls/sdhd.m3u8
-重庆卫视 高清,http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
-上海纪实 高清,http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
-四川卫视 高清,http://iptv.pdsu.edu.cn/hls/schd.m3u8
-金鹰纪实 高清,http://iptv.pdsu.edu.cn/hls/gedocu.m3u8
-福建东南卫视 高清,http://iptv.pdsu.edu.cn/hls/dnhd.m3u8
-河北卫视 高清,http://iptv.pdsu.edu.cn/hls/hebhd.m3u8
-江西卫视 高清,http://iptv.pdsu.edu.cn/hls/jxhd.m3u8
-中国教育电视台1 高清,http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8
-CCTV-1综合,http://iptv.pdsu.edu.cn/hls/cctv1.m3u8
-CCTV-2财经,http://iptv.pdsu.edu.cn/hls/cctv2.m3u8
-CCTV-3综艺,http://iptv.pdsu.edu.cn/hls/cctv3.m3u8
-CCTV-4中文国际,http://iptv.pdsu.edu.cn/hls/cctv4.m3u8
-CCTV-5体育,http://iptv.pdsu.edu.cn/hls/cctv5.m3u8
-CCTV-6电影,http://iptv.pdsu.edu.cn/hls/cctv6.m3u8
-CCTV-7军事农业,http://iptv.pdsu.edu.cn/hls/cctv7.m3u8
-CCTV-8电视剧,http://iptv.pdsu.edu.cn/hls/cctv8.m3u8
-CCTV-9纪录,http://iptv.pdsu.edu.cn/hls/cctv9.m3u8
-CCTV-10科教,http://iptv.pdsu.edu.cn/hls/cctv10.m3u8
-CCTV-11戏曲,http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
-CCTV-12社会与法,http://iptv.pdsu.edu.cn/hls/cctv12.m3u8
-CCTV-13新闻,http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
-CCTV-14少儿,http://iptv.pdsu.edu.cn/hls/cctv14.m3u8
-CCTV-15音乐,http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
-CGTN,http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
-CCTV-电影剧场,http://iptv.pdsu.edu.cn/hls/dyjctv.m3u8
-CCTV-风云剧场,http://iptv.pdsu.edu.cn/hls/fyjctv.m3u8
-CCTV-风云音乐,http://iptv.pdsu.edu.cn/hls/fyyytv.m3u8
-CCTV-风云足球,http://iptv.pdsu.edu.cn/hls/fyzqtv.m3u8
-CCTV-国防军事,http://iptv.pdsu.edu.cn/hls/gfjstv.m3u8
-CCTV-怀旧剧场,http://iptv.pdsu.edu.cn/hls/hjjctv.m3u8
-CCTV-世界地理,http://iptv.pdsu.edu.cn/hls/sjdltv.m3u8
-北京卫视,http://iptv.pdsu.edu.cn/hls/btv1.m3u8
-北京文艺,http://iptv.pdsu.edu.cn/hls/btv2.m3u8
-北京科教,http://iptv.pdsu.edu.cn/hls/btv3.m3u8
-北京影视,http://iptv.pdsu.edu.cn/hls/btv4.m3u8
-北京财经,http://iptv.pdsu.edu.cn/hls/btv5.m3u8
-北京生活,http://iptv.pdsu.edu.cn/hls/btv7.m3u8
-北京青年,http://iptv.pdsu.edu.cn/hls/btv8.m3u8
-北京新闻,http://iptv.pdsu.edu.cn/hls/btv9.m3u8
-北京卡酷少儿,http://iptv.pdsu.edu.cn/hls/btv10.m3u8
-浙江卫视,http://iptv.pdsu.edu.cn/hls/zjtv.m3u8
-湖南卫视,http://iptv.pdsu.edu.cn/hls/hunantv.m3u8
-江苏卫视,http://iptv.pdsu.edu.cn/hls/jstv.m3u8
-东方卫视,http://iptv.pdsu.edu.cn/hls/dftv.m3u8
-深圳卫视,http://iptv.pdsu.edu.cn/hls/sztv.m3u8
-安徽卫视,http://iptv.pdsu.edu.cn/hls/ahtv.m3u8
-河南卫视,http://iptv.pdsu.edu.cn/hls/hntv.m3u8
-陕西卫视,http://iptv.pdsu.edu.cn/hls/sxtv.m3u8
-吉林卫视,http://iptv.pdsu.edu.cn/hls/jltv.m3u8
-广东卫视,http://iptv.pdsu.edu.cn/hls/gdtv.m3u8
-山东卫视,http://iptv.pdsu.edu.cn/hls/sdtv.m3u8
-湖北卫视,http://iptv.pdsu.edu.cn/hls/hbtv.m3u8
-广西卫视,http://iptv.pdsu.edu.cn/hls/gxtv.m3u8
-河北卫视,http://iptv.pdsu.edu.cn/hls/hebtv.m3u8
-西藏卫视,http://iptv.pdsu.edu.cn/hls/xztv.m3u8
-内蒙古卫视,http://iptv.pdsu.edu.cn/hls/nmtv.m3u8
-青海卫视,http://iptv.pdsu.edu.cn/hls/qhtv.m3u8
-四川卫视,http://iptv.pdsu.edu.cn/hls/sctv.m3u8
-天津卫视,http://iptv.pdsu.edu.cn/hls/tjtv.m3u8
-山西卫视,http://iptv.pdsu.edu.cn/hls/sxrtv.m3u8
-辽宁卫视,http://iptv.pdsu.edu.cn/hls/lntv.m3u8
-厦门卫视,http://iptv.pdsu.edu.cn/hls/xmtv.m3u8
-新疆卫视,http://iptv.pdsu.edu.cn/hls/xjtv.m3u8
-黑龙江卫视,http://iptv.pdsu.edu.cn/hls/hljtv.m3u8
-云南卫视,http://iptv.pdsu.edu.cn/hls/yntv.m3u8
-江西卫视,http://iptv.pdsu.edu.cn/hls/jxtv.m3u8
-福建东南卫视,http://iptv.pdsu.edu.cn/hls/dntv.m3u8
-贵州卫视,http://iptv.pdsu.edu.cn/hls/gztv.m3u8
-宁夏卫视,http://iptv.pdsu.edu.cn/hls/nxtv.m3u8
-甘肃卫视,http://iptv.pdsu.edu.cn/hls/gstv.m3u8
-重庆卫视,http://iptv.pdsu.edu.cn/hls/cqtv.m3u8
-兵团卫视,http://iptv.pdsu.edu.cn/hls/bttv.m3u8
-旅游卫视,http://iptv.pdsu.edu.cn/hls/lytv.m3u8
-中国教育-1,http://iptv.pdsu.edu.cn/hls/cetv1.m3u8
-中国教育-3,http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
-中国教育-4,http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
-CHC动作电影,http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
-CHC家庭影院,http://iptv.pdsu.edu.cn/hls/chctv.m3u8
-金鹰卡通,http://iptv.pdsu.edu.cn/hls/jykttv.m3u8
-山东教育,http://iptv.pdsu.edu.cn/hls/sdetv.m3u8
-凤凰卫视中文台,http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
-凤凰卫视资讯台,http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
-凤凰卫视电影台,http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
-探索频道,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
-国家地理频道,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
-星空卫视,http://iptv.pdsu.edu.cn/hls/startv.m3u8
-Channel[V],http://iptv.pdsu.edu.cn/hls/channelv.m3u8
-卫视体育台,http://iptv.pdsu.edu.cn/hls/starsports.m3u8
-
-
+CCTV1-1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV-1HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+CCTV-2,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv2/1300000/mnf.m3u8
+CCTV-3,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv3/1300000/mnf.m3u8
+CCTV-4,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV-5,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv5/1300000/mnf.m3u8
+CCTV-6,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv6/1300000/mnf.m3u8
+CCTV-7,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv7/1300000/mnf.m3u8
+CCTV-8,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv8/1300000/mnf.m3u8
+CCTV-10,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv10/1300000/mnf.m3u8
+CCTV-11,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv11/1300000/mnf.m3u8
+CCTV-12,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv12/1300000/mnf.m3u8
+CCTV-13,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctvxw/1300000/mnf.m3u8
+CCTV-14,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctvse//1300000/mnf.m3u8
+CCTV-15,http://keonline.shanghai.liveplay.qq.com/live/program/live/cctvyy/1300000/mnf.m3u8
+北京卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/bjwshd/4000000/mnf.m3u8
+江苏卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/4000000/mnf.m3u8
+浙江卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/4000000/mnf.m3u8
+深圳卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/4000000/mnf.m3u8
+山东卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/4000000/mnf.m3u8
+湖北卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/4000000/mnf.m3u8
+广东卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/4000000/mnf.m3u8
+东方卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/4000000/mnf.m3u8
+黑龙江卫视1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/4000000/mnf.m3u8
+五星体育1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+上海Knews24 1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba8/4000000/mnf.m3u8
+北京卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/bjwshd/1300000/mnf.m3u8
+东方卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/1300000/mnf.m3u8
+浙江卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/1300000/mnf.m3u8
+湖北卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/1300000/mnf.m3u8
+湖南卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/1300000/mnf.m3u8
+山东卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/1300000/mnf.m3u8
+江苏卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/1300000/mnf.m3u8
+深圳卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/1300000/mnf.m3u8
+广东卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/1300000/mnf.m3u8
+黑龙江卫视高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/1300000/mnf.m3u8
+五星体育高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/1300000/mnf.m3u8
+新闻24高清,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba8/1300000/mnf.m3u8
+湖南卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/2300000/mnf.m3u8
+北京卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/bjwshd/2300000/mnf.m3u8
+江苏卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/2300000/mnf.m3u8
+浙江卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/2300000/mnf.m3u8
+深圳卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/2300000/mnf.m3u8
+山东卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/2300000/mnf.m3u8
+湖北卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/2300000/mnf.m3u8
+广东卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/2300000/mnf.m3u8
+黑龙江卫视HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/2300000/mnf.m3u8
+五星体育HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/2300000/mnf.m3u8
+法治天地HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
+欢笑剧场HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/hxjc/1300000/mnf.m3u8
+都市剧场HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjc/1300000/mnf.m3u8
+七彩戏剧HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/qcxj/1300000/mnf.m3u8
+动漫秀场HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxc/1300000/mnf.m3u8
+劲爆体育HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/jbty/1300000/mnf.m3u8
+极速汽车,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
+游戏风云,http://keonline.shanghai.liveplay.qq.com/live/program/live/yxfy/1300000/mnf.m3u8
+金鹰卡通,http://keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
+炫动卡通,http://keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
+嘉佳卡通,http://keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
+星尚,http://keonline.shanghai.liveplay.qq.com/live/program/live/shss/1300000/mnf.m3u8
+上海纪实,http://keonline.shanghai.liveplay.qq.com/live/program/live/jspd/1300000/mnf.m3u8
+上海新闻,http://keonline.shanghai.liveplay.qq.com/live/program/live/xwzh/1300000/mnf.m3u8
+上海娱乐,http://keonline.shanghai.liveplay.qq.com/live/program/live/ylpd/1300000/mnf.m3u8
+上海电视剧,http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjpd/1300000/mnf.m3u8
+上海ICS外语频道,http://keonline.shanghai.liveplay.qq.com/live/program/live/wypd/1300000/mnf.m3u8
+上海艺术人文,http://keonline.shanghai.liveplay.qq.com/live/program/live/ysrw/1300000/mnf.m3u8
+东方财经浦东,http://keonline.shanghai.liveplay.qq.com/live/program/live/dfcj/1300000/mnf.m3u8
+第一财经,http://keonline.shanghai.liveplay.qq.com/live/program/live/dycj/1300000/mnf.m3u8
+安徽卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/ahws/1300000/mnf.m3u8
+兵团卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/btws/1300000/mnf.m3u8
+甘肃卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/gsws/1300000/mnf.m3u8
+陕西卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/sxws/1300000/mnf.m3u8
+山西卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/shanxiws/1300000/mnf.m3u8
+吉林卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/jlws/1300000/mnf.m3u8
+河北卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/hbws/1300000/mnf.m3u8
+四川卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/scws/1300000/mnf.m3u8
+贵州卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/gzws/1300000/mnf.m3u8
+云南卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/ynws/1300000/mnf.m3u8
+辽宁卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/lnws/1300000/mnf.m3u8
+旅游卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/lyws/1300000/mnf.m3u8
+东南卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/dnws/1300000/mnf.m3u8
+重庆卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/cqws/1300000/mnf.m3u8
+广西卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/gxws/1300000/mnf.m3u8
+青海卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/qhws/1300000/mnf.m3u8
+江西卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/jxws/1300000/mnf.m3u8
+内蒙古卫视,http://keonline.shanghai.liveplay.qq.com/live/program/live/nmgws/1300000/mnf.m3u8
+五星体育HD,http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/1300000/mnf.m3u8
+直播1-1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba1/4000000/mnf.m3u8
+直播2-1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba2/4000000/mnf.m3u8
+直播3-1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba3/4000000/mnf.m3u8
+直播4-1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba4/4000000/mnf.m3u8
+直播5-1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba5/4000000/mnf.m3u8
+直播6-1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba6/4000000/mnf.m3u8
+直播7-1080P,http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba7/4000000/mnf.m3u8
+测试2,#genre#
+CCTV-1HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
+CCTV-2HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
+CCTV-3HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
+CCTV-4HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
+CCTV-5HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
+CCTV5+HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+CCTV-6HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6hd
+CCTV-7HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
+CCTV-8HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8hd
+CCTV-9HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
+CCTV-10HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
+CCTV-12HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
+CCTV-14HD,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
+CCTV-1综合,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1
+CCTV-2财经,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2
+CCTV-3综艺,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3
+CCTV-4中文国际,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4
+CCTV-5体育,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
+CCTV-6电影,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6
+CCTV-7军事农业,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7
+CCTV-8电视剧,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8
+CCTV-9记录,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9
+CCTV-10科教,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10
+CCTV-11戏曲,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv11
+CCTV-12社会与法,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12
+CCTV-13新闻,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+CCTV-14少儿,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14
+CCTV-15音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv15
+CGTN-新闻,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv16
+CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
+CETV-3,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
+CETV-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
+北京卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv1hd
+北京影视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
+北京体育高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+北京新闻高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
+北京纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv11hd
+北京卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/btv1
+北京文艺,rtmp://ivi.bupt.edu.cn:1935/livetv/btv2
+北京科教,rtmp://ivi.bupt.edu.cn:1935/livetv/btv3
+北京影视,rtmp://ivi.bupt.edu.cn:1935/livetv/btv4
+北京财经,rtmp://ivi.bupt.edu.cn:1935/livetv/btv5
+北京体育,rtmp://ivi.bupt.edu.cn:1935/livetv/btv6
+北京生活,rtmp://ivi.bupt.edu.cn:1935/livetv/btv7
+北京青年,rtmp://ivi.bupt.edu.cn:1935/livetv/btv8
+北京新闻,rtmp://ivi.bupt.edu.cn:1935/livetv/btv9
+北京卡酷,rtmp://ivi.bupt.edu.cn:1935/livetv/btv10
+北京文艺高清,rtmp://ivi.bupt.edu.cn:1935/livetv/btv2hd
+安徽卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/ahhd
+重庆卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/cqhd
+东方卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/dfhd
+天津卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/tjhd
+东南卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/dnhd
+江西卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/jxhd
+河北卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
+湖南卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/hunanhd
+湖北卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/hbhd
+辽宁卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/lnhd
+四川卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/schd
+江苏卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/jshd
+浙江卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/zjhd
+江苏卫视高清,http://ivi.bupt.edu.cn/hls/jshd.m3u8
+山东卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/sdhd
+广东卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/gdhd
+深圳卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/szhd
+黑龙江卫视高清,rtmp://ivi.bupt.edu.cn:1935/livetv/hljhd
+上海纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
+金鹰纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
+全纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
+CCTV-第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
+CCTV-国防军事,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+CCTV-怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
+CCTV-风云剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
+CCTV-风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
+CCTV-风云音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
+CCTV-世界地理,rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+安徽卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/ahtv
+兵团卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/bttv
+重庆卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/cqtv
+东方卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/dftv
+东南卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/dntv
+广东卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/gdtv
+广西卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/gxtv
+甘肃卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/gstv
+贵州卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/gztv
+湖北卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/hbtv
+湖南卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/hunantv
+河北卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/hebtv
+河南卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/hntv
+黑龙江卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/hljtv
+江苏卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/jstv
+江西卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/jxtv
+吉林卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/jltv
+辽宁卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/lntv
+内蒙古卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/nmtv
+宁夏卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/nxtv
+青海卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/qhtv
+新疆卫视,http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+西藏卫视,http://ivi.bupt.edu.cn/hls/xztv.m3u8
+四川卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/sctv
+山东卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/sdtv
+山西卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/sxrtv
+陕西卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/sxtv
+旅游卫视,http://ivi.bupt.edu.cn/hls/lytv.m3u8
+山东教育,rtmp://ivi.bupt.edu.cn:1935/livetv/sdetv
+中国教育-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
+中国教育-3,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
+中国教育-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
+凤凰卫视中文台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰卫视资讯台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰卫视电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+Star Sports,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+国家地理频道,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+CHC高清电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
+CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
