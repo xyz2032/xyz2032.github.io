@@ -698,4 +698,3 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 
-
