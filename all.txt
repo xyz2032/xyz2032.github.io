@@ -729,3 +729,4 @@ CETV-1中国教育台,http://111.40.205.87/PLTV/88888888/224/3221225652/index.m3
 CETV-2中国教育台,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226170/index.m3u8?_res_tag_=video
 CETV-3中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8?_res_tag_=video
 CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?_res_tag_=video
+
