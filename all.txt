@@ -355,6 +355,9 @@ CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 CCTV-17,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CETV-1中国教育台,http://111.40.205.87/PLTV/88888888/224/3221225652/index.m3u8
+CETV-1中国教育台,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+CETV-1中国教育台,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
+CETV-1中国教育台,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/yst.m3u8
 CETV-2中国教育台,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226170/index.m3u8?_res_tag_=video
 CETV-3中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8?_res_tag_=video
 CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?_res_tag_=video
@@ -547,8 +550,6 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 旅游卫视,http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 旅游卫视,http://223.82.250.72/live/lvyoustv/1.m3u8
 旅游卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/lvyoustv/1.m3u8
-咪咕体育,http://39.134.52.180/PLTV/88888888/224/3221226073/index.m3u8
-南方卫视,http://nclive.grtn.cn/tvs2/playlist.m3u8
 内蒙古卫视,http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8
 内蒙古卫视,http://117.169.120.140:8080/live/neimenggustv/.m3u8
 内蒙古卫视,http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
@@ -566,7 +567,6 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 宁夏卫视,http://39.134.52.181/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226034/index.m3u8
 宁夏卫视,http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 宁夏卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/ningxiastv/1.m3u8
-农林卫视,http://stream.snrtv.com/sxtvs-nl.m3u8
 青海卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
 青海卫视,http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
 青海卫视,http://111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8
@@ -577,7 +577,6 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225623/index.m3u8
 厦门卫视,http://ivi.bupt.edu.cn/hls/xmtv.m3u8
 厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-山东教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
 山东卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
 山东卫视,http://111.40.205.87/PLTV/88888888/224/3221225650/index.m3u8
 山东卫视,http://111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8
@@ -688,9 +687,6 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 浙江卫视,http://121.31.30.90:8085/ysten-business/live/zhejiangstv/yst.m3u8
 浙江卫视,http://ivi.bupt.edu.cn/hls/zjtv.m3u8
 浙江卫视,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-中国教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
-中国教育,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
-中国教育,http://121.31.30.90:8085/ysten-business/live/jiaoyutv/yst.m3u8
 重庆卫视,http://111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8
 重庆卫视,http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
 重庆卫视,http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
@@ -701,6 +697,5 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 重庆卫视,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/chongqingstv/1.m3u8
 重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-珠江卫视,http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
-珠江卫视,http://nclive.grtn.cn/zjpd/playlist.m3u8
+
 
